@@ -18,6 +18,7 @@
 ### En este esquema, la función siempre representará la relación entre una entrada y una salida, tal como en matemáticas, en las que tienes que si a una función introduces un valor X, obtendrás como resultado un valor Y.
 ![](Capturas/Definición.PNG)
 
+[link de referencia](https://thatcsharpguy.com/tv/funcional/)
 ## 2.-ARGUMENTOS DE ENTRADA
 ## Argumentos por posición:
 ### Los argumentos por posición o posicionales son la forma más básica e intuitiva de pasar parámetros. Si tenemos una función resta() que acepta dos parámetros, se puede llamar como se muestra a continuación.
